@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Stream;
 
 public class p10807 {
-    //https://www.acmicpc.net/problem/108-7
+    //https://www.acmicpc.net/problem/10807
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
