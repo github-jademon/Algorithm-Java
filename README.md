@@ -31,7 +31,7 @@
 
 실버Ⅱ
 ---
-- [15988](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p15988.java),
+- [15988](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p15988.java)
 
 실버Ⅲ
 ---
@@ -40,7 +40,7 @@
 - [1463](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1463.java)
 - [9095](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p9095.java)
 - [11726](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p11726.java)
-- [11727](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1727.java)
+- [11727](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p11727.java)
 - [14501](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p14501.java)
 
 실버Ⅳ
@@ -93,12 +93,12 @@
 
 브론즈Ⅳ
 ---
-- [2439](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2539.java)
+- [2439](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2439.java)
 - [11720](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p11720.java)
 
 브론즈Ⅴ
 ---
-- [2393](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1292.java)
+- [2393](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2393.java)
 - [2420](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2420.java)
 - [2438](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2438.java)
 - [2738](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2738.java)
@@ -113,7 +113,7 @@
 - [5597](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p5597.java)
 - [6840](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p6840.java)
 - [8437](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p8437.java)
-- [8545](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p9545.java)
+- [8545](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p8545.java)
 - [8871](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p8871.java)
 - [9086](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p9086.java)
 - [9498](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p9498.java)
