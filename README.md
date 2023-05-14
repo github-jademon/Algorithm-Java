@@ -69,6 +69,7 @@
 브론즈Ⅱ
 ---
 - [1009](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1009.java)
+- [1075](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1075.java)
 - [1152](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1152.java)
 - [1978](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1978.java)
 - [2231](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2231.java)
