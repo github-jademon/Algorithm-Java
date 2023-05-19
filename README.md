@@ -53,6 +53,7 @@
 - [1181](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1181.java)
 - [1418](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1418.java)
 - [1436](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1436.java)
+- [1439](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1439.java)
 - [1676](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1676.java)
 - [7568](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p7568.java)
 - [10814](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p10814.java)
