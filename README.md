@@ -50,6 +50,7 @@
 
 실버Ⅴ
 ---
+- [1094](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1094.java)
 - [1181](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1181.java)
 - [1418](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1418.java)
 - [1436](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1436.java)
