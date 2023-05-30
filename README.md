@@ -96,6 +96,7 @@
 - [2908](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2908.java)
 - [2920](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2920.java)
 - [3052](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p3052.java)
+- [3181](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p3181.java)
 - [8958](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p8958.java)
 - [10809](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p10809.java)
 - [15829](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p15829.java)
