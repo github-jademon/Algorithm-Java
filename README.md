@@ -80,6 +80,7 @@
 - [2869](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2869.java)
 - [3226](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p3226.java)
 - [4150](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p4150.java)
+- [8974](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p8974.java)
 
 브론즈Ⅱ
 ---
