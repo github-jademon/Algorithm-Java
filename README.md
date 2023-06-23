@@ -31,6 +31,7 @@
 
 실버Ⅱ
 ---
+- [1024](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p1024.java)
 - [15988](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p15988.java)
 
 실버Ⅲ
