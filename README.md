@@ -27,7 +27,7 @@
 
 실버Ⅰ
 ---
--
+- [2583](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2583.java)
 
 실버Ⅱ
 ---
