@@ -195,6 +195,7 @@
 - [27324](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27324.java)
 - [27328](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27328.java)
 - [27331](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27331.java)
+- [27389](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27389.java)
 - [27433](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27433.java)
 - [27866](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27866.java)
 - [27889](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p27889.java)
