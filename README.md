@@ -129,6 +129,7 @@
 
 브론즈Ⅳ
 ---
+- [2083](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2083.java)
 - [2439](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2439.java)
 - [2440](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2440.java)
 - [2480](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p2480.java)
