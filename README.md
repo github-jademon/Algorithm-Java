@@ -167,6 +167,7 @@
 - [16486](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p16486.java)
 - [17362](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p17362.java)
 - [20833](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p20833.java)
+- [25191](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p25191.java)
 
 브론즈Ⅴ
 ---
