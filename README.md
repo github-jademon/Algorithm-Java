@@ -169,6 +169,7 @@
 - [20833](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p20833.java)
 - [25191](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p25191.java)
 - [25625](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p25625.java)
+- [25628](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p25628.java)
 - [25640](https://github.com/github-jademon/Algorithm/blob/main/src/baekjoon/p25640.java)
 
 브론즈Ⅴ
